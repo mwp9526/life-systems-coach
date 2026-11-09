@@ -1,0 +1,25 @@
+# Local user context, never add personal records to the public skill repository
+user-data/
+private-notes/
+local-progress/
+*.private.md
+*.local.md
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+.DS_Store
+Thumbs.db
+__pycache__/
+.pytest_cache/
+.vscode/
+.idea/
+
+# Never commit source books, research ebook/PDF copies, or archive dumps
+*.epub
+*.mobi
+*.azw3
+private-source-books/
+step5-review/
+*.log
