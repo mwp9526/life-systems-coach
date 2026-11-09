@@ -2,7 +2,7 @@
 
 **Version:** `v0.1.0-alpha.1` (Codex-only experimental alpha)  
 **Packaging review:** 2026-11-06  
-**Release approval:** Must be granted by maintainer before making the repository public
+**Release scope approved:** 2026-11-09 by the maintainer for a Codex-only experimental alpha. GitHub repository visibility and the release's publication status must be verified separately.
 
 ## Purpose
 
@@ -29,9 +29,9 @@ An early public preview of a lightweight, original Agent Skill for structured Li
 - No guarantee of continuous memory, real-world coaching outcomes, calendar write access, automated reminders, or safe high-stakes advice.
 - The eight-file Skill bundle exported by the maintainer was statically checked and included without changing its content on 2026-11-06. The ZIP did not include Git metadata, so this snapshot cannot independently prove the local commit SHA.
 
-## Publication decision required
+## Approved preview scope and remaining limitations
 
-Publishing a **Codex-only experimental alpha** would be a **new, explicitly authorized, narrower scope** than the original full v0.1.0 release plan. The maintainer must decide whether to accept the remaining risks and verify the exact local Skill bundle and a clean public source tree before any public GitHub publication. Do not present this alpha as fully safety-validated or cross-platform certified.
+The maintainer explicitly approved the **Codex-only experimental alpha** as a narrower preview than the original v0.1.0 release plan on 2026-11-09. The source tree has been separately reviewed for obvious private material and source-file completeness, but this is not an assurance of exhaustive security, copyright, or model-behavior validation. Do not present this alpha as fully safety-validated or cross-platform certified.
 
 ## Credits
 
