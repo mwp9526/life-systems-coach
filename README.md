@@ -20,6 +20,17 @@ You may request sequential workflows, for example: “First conduct a Life Audit
 
 It is *not* a calendar app, a background agent, or a memory service. You can use it entirely through conversation and optionally copy a Markdown note into your own private files.
 
+## Get the files
+
+You can [download the repository as a ZIP](https://github.com/mwp9526/life-systems-coach/archive/refs/heads/main.zip) and extract it, or clone it with Git:
+
+```bash
+git clone https://github.com/mwp9526/life-systems-coach.git
+cd life-systems-coach
+```
+
+Use the extracted or cloned repository root for the installation steps below. The repository must be public, or you must have access to it, for these downloads to work.
+
 ## Install for Codex
 
 The canonical package is **[`skills/life-systems-coach/`](skills/life-systems-coach/)**, including its `SKILL.md`, `references/`, and `assets/` folders. Cloning this repository alone does **not** install the skill into a target workspace.
